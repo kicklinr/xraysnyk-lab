@@ -29,3 +29,6 @@ patch:
   'npm:request:20160119':
     - tap > codecov.io > request:
         patched: '2017-05-24T23:14:35.867Z'
+  'npm:debug:20170905':
+    - mongoose > mquery > debug:
+        patched: '2017-09-27T22:34:07.092Z'
